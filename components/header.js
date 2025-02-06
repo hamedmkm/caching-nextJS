@@ -12,7 +12,7 @@ export default function Header() {
             <Link href="/messages">Messages</Link>
           </li>
           <li>
-            <Link href="/messages/new">New Message</Link>
+            <Link href="/messages/new">New ./Message</Link>
           </li>
         </ul>
       </nav>
